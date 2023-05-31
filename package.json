@@ -1,0 +1,25 @@
+{
+  "name": "hltv-stats",
+  "version": "1.0.0",
+  "description": "Server-side application which pulls data from hltv.org and provides analysis on player/team data before returning a webpage to the user.",
+  "main": "index.js",
+  "scripts": {
+    "test": "NA"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyler-jurczyk-2020/hltv-stats.git"
+  },
+  "dependencies": {
+    "hltv": "^3.4.5"
+  },
+  "keywords": [
+    "hltv-stats"
+  ],
+  "author": "Tyler Jurczyk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tyler-jurczyk-2020/hltv-stats/issues"
+  },
+  "homepage": "https://github.com/tyler-jurczyk-2020/hltv-stats#readme"
+}
